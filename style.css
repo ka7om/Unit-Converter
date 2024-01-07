@@ -1,0 +1,48 @@
+body {
+    background: gray;
+    margin: 0;
+    color: #ffff;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+section {
+    margin: 0 auto;
+    width: 550px;
+    background: #1F2937;
+}
+
+.first-sec {
+    background: linear-gradient(246.26deg, #2B75EC 0%, #2EC4DE 100%);
+    padding: 40px 0;
+    margin-top: 100px;
+}
+
+.main-input-p {
+    font-size: 97px;
+    color: #ffff;
+    font-weight: 900;
+    margin: 0;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+.second-sec{
+    margin: 40px 0;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px;
+    color: #D2D2D2; 
+}
+
+.padding-bottom {
+    padding-bottom: 30px;
+}
